@@ -1,4 +1,4 @@
-# YOLO-Setup
+# YOLO-Setup on MAC
 
 ![YOLOv3](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSsQfpSLmDtzLmpLJBb4i-BtU4l99IuHmRmoA&usqp=CAU)
 
@@ -90,6 +90,7 @@ python yolo_opencv.py -c training/yolov3-tiny.cfg -w backup/yolov3-tiny_100.weig
  
  
 
-For Setup on Windows
-https://github.com/alexeyab/darknet
-https://github.com/AlexeyAB/darknet#how-to-compile-on-windows-legacy-way
+**YOLO Setup on Windows**
+- https://github.com/alexeyab/darknet
+- https://github.com/AlexeyAB/darknet#how-to-compile-on-windows-legacy-way
+- Follow steps in Yolo Darknet Installation.docx inside this repo
